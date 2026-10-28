@@ -1,0 +1,11 @@
+diag_group,encounters,readmitted,rate_pct,ci_low_pct,ci_high_pct
+Unknown,10,2,20.0,5.67,50.98
+Injury,4694,507,10.8,9.94,11.72
+Circulatory,21389,2070,9.68,9.29,10.08
+Diabetes,5748,524,9.12,8.4,9.89
+Neoplasms,2538,230,9.06,8.01,10.24
+Other,12124,1089,8.98,8.49,9.5
+Genitourinary,3441,309,8.98,8.07,9.98
+Musculoskeletal,4064,341,8.39,7.58,9.28
+Digestive,6488,520,8.01,7.38,8.7
+Respiratory,9491,693,7.3,6.8,7.84

@@ -1,0 +1,4 @@
+los_bucket,patients,readmit_rate_pct
+1-3 days,35144,7.53
+4-7 days,25075,9.91
+8-14 days,9768,11.79

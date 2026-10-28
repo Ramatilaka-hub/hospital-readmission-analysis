@@ -1,0 +1,5 @@
+a1c_status,encounters,readmitted,rate_pct,ci_low_pct,ci_high_pct
+Not tested,57141,5206,9.11,8.88,9.35
+Normal,3741,323,8.63,7.78,9.58
+High (>7),2866,247,8.62,7.65,9.7
+High (>8),6239,509,8.16,7.5,8.86

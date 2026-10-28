@@ -1,0 +1,7 @@
+race,encounters,readmitted,rate_pct,ci_low_pct,ci_high_pct
+Caucasian,52305,4807,9.19,8.95,9.44
+AfricanAmerican,12627,1095,8.67,8.19,9.18
+Asian,488,41,8.4,6.25,11.2
+Hispanic,1501,122,8.13,6.85,9.62
+Unknown,1917,141,7.36,6.27,8.61
+Other,1149,79,6.88,5.55,8.49

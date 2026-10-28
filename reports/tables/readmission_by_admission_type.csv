@@ -1,0 +1,7 @@
+admission_type,encounters,readmitted,rate_pct,ci_low_pct,ci_high_pct
+Newborn,9,1,11.11,1.99,43.5
+Not available,7893,735,9.31,8.69,9.97
+Emergency,35478,3258,9.18,8.89,9.49
+Urgent,12803,1149,8.97,8.49,9.48
+Elective,13786,1142,8.28,7.84,8.76
+Trauma center,18,0,0.0,0.0,17.59

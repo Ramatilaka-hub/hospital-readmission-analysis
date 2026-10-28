@@ -1,0 +1,14 @@
+{
+  "patients_analysed": 69987,
+  "readmission_rate_pct": 8.98,
+  "mean_length_of_stay_days": 4.27,
+  "chi_square_p_values": {
+    "age_group": 3.671320150727956e-35,
+    "a1c_status": 0.061392433535510486,
+    "admission_type": 0.0247453778617376,
+    "diag_group": 1.4077826156692433e-12,
+    "race": 0.0026522683331623585,
+    "gender": 0.5897549408532893,
+    "change": 0.00012732799698510138
+  }
+}

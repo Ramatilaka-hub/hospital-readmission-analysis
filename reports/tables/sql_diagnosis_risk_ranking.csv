@@ -1,0 +1,11 @@
+diag_group,patients,readmit_rate_pct,risk_rank
+Unknown,10,20.0,1
+Injury,4694,10.8,2
+Circulatory,21389,9.68,3
+Diabetes,5748,9.12,4
+Neoplasms,2538,9.06,5
+Other,12124,8.98,6
+Genitourinary,3441,8.98,7
+Musculoskeletal,4064,8.39,8
+Digestive,6488,8.01,9
+Respiratory,9491,7.3,10
